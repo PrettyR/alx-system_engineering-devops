@@ -1,2 +1,2 @@
 #!/bin/bash
-8. Bye bye Betty. I will delete the file Betty
+9. Bye bye my first directory. I will my first directory that is inside another directory.
