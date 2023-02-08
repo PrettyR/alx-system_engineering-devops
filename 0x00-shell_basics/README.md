@@ -1,2 +1,2 @@
 #!/bin/bash
-5. I love numbers. I will display directory contents. In long format, with user ID displayed numerically and hidden files.
+6. Welcome. I will create a script that creates a directory inside another directory.
