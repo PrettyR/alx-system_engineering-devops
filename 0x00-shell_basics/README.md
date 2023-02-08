@@ -1,2 +1,2 @@
 #!/bin/bash
-16. Clean Emacs. I will create a script that all he files in the current working directory that end eith the character ~.
+17. Tree. I will create a script that will create a number  of directoies in a directory.
