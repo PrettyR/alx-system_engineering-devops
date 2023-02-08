@@ -1,2 +1,2 @@
 #!/bin/bash
-17. Tree. I will create a script that will create a number  of directoies in a directory.
+18. Life is a series of commas, not periods. I will write a command that lists all the files and directories of the current working directory, separated by commas.
