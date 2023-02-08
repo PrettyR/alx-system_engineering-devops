@@ -1,2 +1,2 @@
 #!/bin/bash
-1. What’s in there? I will display the content list of my current directory
+2. There is no place like home. I will write the scipt that changes the working directory to the user home directory
