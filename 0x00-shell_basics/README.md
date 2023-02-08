@@ -1,2 +1,2 @@
-#!/bin/bash
-13. We are symbols, and inhabits symbols. I will create a symolic link in my current working directory.
+#!bin/bash
+14. Copy HTML files. I will create a script that copies all the HTML files from the current working directory to the parent of the working directory.
