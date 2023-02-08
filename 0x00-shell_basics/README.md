@@ -1,2 +1,2 @@
 #!/bin/bash
-0. Where am I? I am going to write a script that prints the absolute path name of the current working directory.
+1. What’s in there? I will display the content list of my current directory
