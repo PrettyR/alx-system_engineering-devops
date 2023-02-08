@@ -1,2 +1,2 @@
 #!/bin/bash
-4. Hidden files. I will display the current directory contents, including hidden files, using the long format.
+5. I love numbers. I will display directory contents. In long format, with user ID displayed numerically and hidden files.
