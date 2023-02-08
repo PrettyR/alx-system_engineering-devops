@@ -1,2 +1,2 @@
 #!/bin/bash
-10. Back to the future. I will write a script that will working directory to the previous one,
+11. Lists. I will that lists all files in the current directory and the parent of the working directory and the boot directory in long format.
