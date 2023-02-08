@@ -1,2 +1,2 @@
 #!/bin/bash
-9. Bye bye my first directory. I will my first directory that is inside another directory.
+10. Back to the future. I will write a script that will working directory to the previous one,
