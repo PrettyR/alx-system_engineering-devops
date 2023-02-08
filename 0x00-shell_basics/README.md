@@ -1,2 +1,2 @@
 #!/bin/bash
-6. Welcome. I will create a directory inside another directory
+7. Betty in my first directory. I will the file Betty from one directory to another.
