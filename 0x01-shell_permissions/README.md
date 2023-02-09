@@ -1,2 +1,2 @@
 #!/bin/bash
-12. More directories. I will write a scipt that creates a directory with certain permissions in the working directory.
+13. Change group. I wil write a script that changes the group owner for a file.
