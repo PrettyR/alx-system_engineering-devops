@@ -1,2 +1,2 @@
 #!/bin/bash
-16. If only. I will write a scrit that will cahnge the ownership of the file if a certain command is met.
+17. Star Wars. I will write a script that will play the StarWars IV episode in the terminal.
