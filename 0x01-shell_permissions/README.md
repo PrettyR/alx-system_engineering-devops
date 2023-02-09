@@ -1,2 +1,2 @@
 #!/bin/bash
-14. Owner and group. I will write a script that changes the ownership of files and directories in the working directory.
+15. Symbolic links. I will write a script that changes the owner and group owner of a file to certain persons.
