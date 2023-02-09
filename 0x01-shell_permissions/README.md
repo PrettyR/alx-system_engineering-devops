@@ -1,2 +1,2 @@
 #!/bin/bash
-4. Empty! I will create a script that creates an empty file
+5.Execute. I will write a script that adds execute permission to the owner of the file.
