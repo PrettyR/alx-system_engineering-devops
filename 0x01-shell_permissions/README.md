@@ -1,2 +1,2 @@
 #!/bin/bash
-10. Look in the mirror. I will write a scipt that sets the mode of one file to look exactly like the other.
+11. Directories. I will write a script that adds execute permission to all subdirectories of the current working directory of the owner, the group owner and other users. At the same time regular files should not be altered.
