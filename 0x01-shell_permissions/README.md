@@ -1,2 +1,2 @@
 #!/bin/bash
-13. Change group. I wil write a script that changes the group owner for a file.
+14. Owner and group. I will write a script that changes the ownership of files and directories in the working directory.
