@@ -1,2 +1,2 @@
 #!/bin/bash
-15. Symbolic links. I will write a script that changes the owner and group owner of a file to certain persons.
+16. If only. I will write a scrit that will cahnge the ownership of the file if a certain command is met.
