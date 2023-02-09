@@ -1,2 +1,2 @@
 #!/bin/bash
-5.Execute. I will write a script that adds execute permission to the owner of the file.
+6. Multiple permissions. I will write a sript that will add execute permission to the owner and group owner, and read permission to other users to the file.
