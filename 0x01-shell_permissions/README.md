@@ -1,2 +1,2 @@
 #!/bin/bash
-9. John Doe. I will write a script that sets the mode of a file to the requirements of the question.
+10. Look in the mirror. I will write a scipt that sets the mode of one file to look exactly like the other.
