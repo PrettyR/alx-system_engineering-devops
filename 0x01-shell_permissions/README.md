@@ -1,2 +1,2 @@
 #!/bin/bash
-0. My name is Betty. I will create a script that switches the current user to user Betty.
+1-Who_am_i I will write a script that prints the effective username of the current user.
