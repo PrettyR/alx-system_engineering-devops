@@ -1,2 +1,2 @@
 #!/bin/bash
-7.Everybody! I will write a script that adds execution permission to everyone. Dangerous right.
+8. James Bond. I will be writing a script that sets diffent permissions to differen users, maybe.
