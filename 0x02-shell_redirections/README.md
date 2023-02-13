@@ -1,1 +1,1 @@
-24. A gif is worth ten thousand words.Script that list all the files with a .gif extension.
+25.  Acrostic. Writing a script that decodes acrostics that use the first letter of each line.
