@@ -1,1 +1,1 @@
-3. What about 2. Display the contents of two files
+4. Last lines of a file. Display the last ten lines of a file
