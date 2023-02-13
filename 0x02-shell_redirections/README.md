@@ -1,1 +1,1 @@
-17. I hate bins. Display all the lines that do not contain the pattern bin.
+18. Letters only please. Display all the lines of the file starting with a letter.
