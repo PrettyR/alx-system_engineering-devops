@@ -1,1 +1,1 @@
-15. Count that word. Display the number of lines that contain the word bin in the file.
+16. Whats next? Display the lines containing the word root and three lines after them in the file.
