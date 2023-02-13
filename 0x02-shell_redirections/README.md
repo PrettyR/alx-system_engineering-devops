@@ -1,1 +1,1 @@
-8. Save current state of directory. Write into a file the standard output of another file.
+9.Duplicate last line. Writing a scipt that duplicates the last line of a file.
