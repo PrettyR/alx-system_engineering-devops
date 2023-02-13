@@ -1,1 +1,1 @@
-0. Hello world. Print hello world using script
+1. Confused smiley. Display a confused smiley
