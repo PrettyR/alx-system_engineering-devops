@@ -1,1 +1,1 @@
-2. Lets display a file.
+3. What about 2. Display the contents of two files
