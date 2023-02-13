@@ -1,1 +1,1 @@
-16. Whats next? Display the lines containing the word root and three lines after them in the file.
+17. I hate bins. Display all the lines that do not contain the pattern bin.
