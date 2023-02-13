@@ -1,1 +1,1 @@
-14. It must be n that file. Displaying lines containig the word root from the file.
+15. Count that word. Display the number of lines that contain the word bin in the file.
