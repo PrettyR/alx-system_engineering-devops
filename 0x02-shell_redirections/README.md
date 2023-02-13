@@ -1,1 +1,1 @@
-4. Last lines of a file. Display the last ten lines of a file
+5. I prefer the first ones. Display the first ten lines.
