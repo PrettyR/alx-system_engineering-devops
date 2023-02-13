@@ -1,1 +1,1 @@
-5. I prefer the first ones. Display the first ten lines.
+6. Line #2. Display the third line of a file
