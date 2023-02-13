@@ -1,1 +1,1 @@
-11. Dont just count your directories, make your directories count. Writing a script to conut directories.
+12. Whats new. Writing a script that display ten new lines in order.
