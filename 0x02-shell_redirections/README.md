@@ -1,1 +1,1 @@
-13. Being unique is better than being perfect. Write a script that takes a list of words appearing only once.
+14. It must be n that file. Displaying lines containig the word root from the file.
