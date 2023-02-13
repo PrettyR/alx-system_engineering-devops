@@ -1,1 +1,1 @@
-9.Duplicate last line. Writing a scipt that duplicates the last line of a file.
+11. Dont just count your directories, make your directories count. Writing a script to conut directories.
