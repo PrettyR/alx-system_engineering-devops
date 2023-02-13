@@ -1,1 +1,1 @@
-6. Line #2. Display the third line of a file
+7. It is a good file that cuts iron without making noise. Display a file with contents inside. Considering the special characters on the file name.
