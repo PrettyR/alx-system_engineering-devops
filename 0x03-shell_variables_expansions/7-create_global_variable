@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $export 2#BEST="School"
+echo $((2#BEST School))
